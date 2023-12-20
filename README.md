@@ -98,5 +98,5 @@ $$minNeighbors$$: Parameter specifying how many neighbors each rectangle should 
 
 # SUMMARY
 
-In this tutorial, we have developed a python project to detect a smile and capture selfies using openCV. OpenCV is a popular machine learning library in the field of computer vision and deep learning
+In this project, we have developed a python project to detect a smile and capture selfies using openCV. OpenCV is a popular machine learning library in the field of computer vision and deep learning
 
