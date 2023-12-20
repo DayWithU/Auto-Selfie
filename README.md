@@ -1,4 +1,4 @@
-# Auto-Selfie
+# Auto-Capture selfie by Detecting Smile
 Everyone loves a smiling picture, so we will develop a project which will capture images every time you smile. This is a simple machine learning project for beginners and we will use openCV library.
 
 What is OpenCV?
